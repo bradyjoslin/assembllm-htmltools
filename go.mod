@@ -1,11 +1,10 @@
-module github.com/extism/go-pdk-template
+module github.com/bradyjoslin/assembllm-htmltools
 
 go 1.21.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.2
 	github.com/extism/go-pdk v1.0.2
-	github.com/yuin/goldmark v1.7.1
 )
 
 require (
